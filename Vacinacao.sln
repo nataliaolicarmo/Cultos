@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CultosService", "VacinaService\CultosService.csproj", "{04E9D435-06AD-4615-B0E9-D5D31D05E17B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cultos", "Vacinacao\Vacinacao\Cultos.csproj", "{5395C619-C0D9-4698-8DC9-6A9974E79A3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E9D435-06AD-4615-B0E9-D5D31D05E17B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E9D435-06AD-4615-B0E9-D5D31D05E17B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E9D435-06AD-4615-B0E9-D5D31D05E17B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E9D435-06AD-4615-B0E9-D5D31D05E17B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5395C619-C0D9-4698-8DC9-6A9974E79A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5395C619-C0D9-4698-8DC9-6A9974E79A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5395C619-C0D9-4698-8DC9-6A9974E79A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5395C619-C0D9-4698-8DC9-6A9974E79A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E7F8C42-CFED-40C7-B7C6-8AC0ED1E9189}
+	EndGlobalSection
+EndGlobal
